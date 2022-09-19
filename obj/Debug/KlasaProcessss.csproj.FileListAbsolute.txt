@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\KlasaProcessss\bin\Debug\KlasaProcessss.exe.config
+C:\Users\ucenik\source\repos\KlasaProcessss\bin\Debug\KlasaProcessss.exe
+C:\Users\ucenik\source\repos\KlasaProcessss\bin\Debug\KlasaProcessss.pdb
+C:\Users\ucenik\source\repos\KlasaProcessss\obj\Debug\KlasaProcessss.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\KlasaProcessss\obj\Debug\KlasaProcessss.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\KlasaProcessss\obj\Debug\KlasaProcessss.Form1.resources
+C:\Users\ucenik\source\repos\KlasaProcessss\obj\Debug\KlasaProcessss.Properties.Resources.resources
+C:\Users\ucenik\source\repos\KlasaProcessss\obj\Debug\KlasaProcessss.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\KlasaProcessss\obj\Debug\KlasaProcessss.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\KlasaProcessss\obj\Debug\KlasaProcessss.exe
+C:\Users\ucenik\source\repos\KlasaProcessss\obj\Debug\KlasaProcessss.pdb
